@@ -1,1 +1,1 @@
-# connect
+This is for my wallets project called jss
